@@ -1,0 +1,8 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.discount__line{
+    background-color: 393939;
+    text-decoration: underline;
+}

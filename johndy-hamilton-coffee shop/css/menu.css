@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    
+}
+
+.hero__menu{
+    background-image: url("../assets/coffee-circle.jpg");
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.beverages__list{
+    list-style-type:none ;
+    color: #F7F7F7;
+}
+
+.hotdrinks{
+text-align: center;
+background-color: #fff0ed;
+}
+
+.coldbrew{
+    text-align: center;
+    background-color:#F7F7F7 ;
+}
+
+.beverages__list{
+    text-align: center;
+    background-color: #393939;
+}
+.Pastries{text-align: center;
+    background-color: #fff0ed;
+
+}
+
+.logo__header{
+    display: block;
+     margin-left: auto;
+}
+
+.hero__container{
+    background-color: black;
+}
